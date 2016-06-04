@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"3024 Color Scheme",
+		"Align Arguments",
+		"Alignment",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"Emmet",
+		"EncodingHelper",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phplint",
+		"SublimeTmpl",
+		"Theme - Freesia",
+		"TrailingSpaces"
+	]
+}
